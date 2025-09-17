@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom'
-import logo from '../assets/logo.svg'
+import logo from '../assets/logo.png'
 
 const linkStyle = ({ isActive }) => ({
   color: isActive ? 'white' : 'var(--color-text-muted)',
@@ -12,7 +12,7 @@ export default function Nav() {
       <div className="container nav-inner">
         <a className="brand" href="/">
           <img src={logo} alt="Logo" />
-          <span>Nonprofit Name</span>
+          <span>Jamaat-ul-Mubarak</span>
         </a>
         <div className="nav-links">
           <NavLink to="/" style={linkStyle}>Home</NavLink>

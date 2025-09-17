@@ -1,7 +1,7 @@
 export default function Blog() {
   const items = [
     { title: 'Quarterly Impact Report', excerpt:'Programs, numbers, what worked and what didn’t.', href:'#' },
-    { title: 'Volunteer Spotlight: Amina', excerpt:'How one member organized a neighborhood tutoring circle.', href:'#' },
+    { title: 'Volunteer Spotlight: Mrs Turay', excerpt:'How one member organized a neighborhood tutoring circle.', href:'#' },
     { title: 'Grant update', excerpt:'Funding outlook for 2026 and how we prioritize projects.', href:'#' },
   ]
   return (

@@ -4,7 +4,7 @@ export default function Home() {
       <section className="hero">
         <div className="container">
           <span className="badge">Community-led • Transparent • Impact</span>
-          <h1>Make impact with <span style={{color:'var(--teal-200)'}}>Nonprofit Name</span></h1>
+          <h1>Make impact with <span style={{color:'var(--teal-200)'}}>Jamaat-ul-Mubarak</span></h1>
           <p>We bring people together to serve our community through programs, events, and support. Become a member, volunteer, or partner with us.</p>
           <div style={{display:'flex', gap:12, marginTop:12}}>
             <a className="button" href="/register">Become a member</a>

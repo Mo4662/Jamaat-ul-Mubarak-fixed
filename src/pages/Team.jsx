@@ -4,12 +4,12 @@ export default function Team() {
     { name:'Mr Frank Bangura', role:'Vice President' },
     { name:'Alhaji Muctarr Jalloh', role:'Treasurer' },
     { name:'Mr Idriss Cont Kamara', role:'Public Relations Officer' },
-    { name:'Mr Mohamed L Turay', role:'Organizer' },
-    { name:'Mr Kanja Jalloh', role:'Member' },
-    { name:'Mr Ibrahim Kamara', role:'Member' },
+    { name:'Mr Mohamed L Turay', role:'Welfare Officer' },
+    { name:'Mr Kanja Jalloh', role:'Organizer' },
+    { name:'Mr Ibrahim Kamara', role:'Deputy PRO' },
     { name:'Mrs Makalay Turay', role:'Women\'s Affairs Officer' },
     { name:'Mrs Alice Kuyateh', role:'Member' },
-    { name:'Mrs Abie Kamara', role:'Member' },
+    { name:'Mrs Abie Kamara', role:'Deputy Organizer' },
     { name:'Alhaji Mohamed M Turay', role:'Secretary General' }
   ]
   return (
